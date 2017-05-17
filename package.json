@@ -18,11 +18,11 @@
     "gain"
   ],
   "devDependencies": {
-    "tape": "^4.6.3"
+    "tape": "^4.6.3",
+    "pull-audio-speaker": "^0.1.0"
   },
   "dependencies": {
     "audio-gain": "audiojs/audio-gain",
-    "pull-audio-generator": "^0.1.0",
-    "pull-audio-speaker": "^0.1.0"
+    "pull-audio-generator": "^0.1.0"
   }
 }
