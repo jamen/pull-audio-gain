@@ -37,7 +37,3 @@ pull(
 )
 ```
 
----
-
-Maintained by [Jamen Marz](https://git.io/jamen) (See on [Twitter](https://twitter.com/jamenmarz) and [GitHub](https://github.com/jamen) for questions & updates)
-
