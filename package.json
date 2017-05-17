@@ -1,7 +1,7 @@
 {
   "name": "pull-audio-gain",
   "description": "Transform volume of audio in a pull-stream",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "author": "Jamen Marz (https://git.io/jamen)",
   "main": "index.js",
   "repository": "audiojs/pull-audio-gain",
@@ -18,8 +18,8 @@
     "gain"
   ],
   "devDependencies": {
-    "tape": "^4.6.3",
-    "pull-audio-speaker": "^0.1.0"
+    "pull-audio-speaker": "^0.1.0",
+    "tape": "^4.6.3"
   },
   "dependencies": {
     "audio-gain": "audiojs/audio-gain",
