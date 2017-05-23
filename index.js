@@ -1,5 +1,5 @@
 
-var Gain = require('audio-gain/direct')
+var Gain = require('audio-gain')
 
 module.exports = stream
 
